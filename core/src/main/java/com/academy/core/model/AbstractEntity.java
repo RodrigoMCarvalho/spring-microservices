@@ -1,4 +1,4 @@
-package com.academy.course.model;
+package com.academy.core.model;
 
 import java.io.Serializable;
 

@@ -1,6 +1,6 @@
 package com.academy.course.controller;
 
-import com.academy.course.model.Course;
+import com.academy.core.model.Course;
 import com.academy.course.service.CourseService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,5 +23,7 @@ public class CourseController {
     @GetMapping(produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
     public ResponseEntity<Iterable<Course>> list(Pageable pageable) {
         return new ResponseEntity<>(service.list(pageable), HttpStatus.OK);
+
+
     }
 }

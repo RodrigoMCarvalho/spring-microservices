@@ -1,8 +1,7 @@
 package com.academy.course.service;
 
-import com.academy.course.model.Course;
-import com.academy.course.repository.CourseRepository;
-import lombok.extern.flogger.Flogger;
+import com.academy.core.model.Course;
+import com.academy.core.repository.CourseRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
@@ -16,6 +15,7 @@ public class CourseService {
     private CourseRepository repository;
 
     public Iterable<Course> list(Pageable pageable) {
+
         return repository.findAll(pageable);
     }
 }

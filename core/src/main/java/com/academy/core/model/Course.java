@@ -1,11 +1,9 @@
-package com.academy.course.model;
+package com.academy.core.model;
 
 import lombok.*;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
-import java.io.Serializable;
-import java.lang.invoke.SerializedLambda;
 
 @Entity
 @Getter
