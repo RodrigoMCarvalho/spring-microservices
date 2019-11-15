@@ -15,7 +15,6 @@ public class CourseService {
     private CourseRepository repository;
 
     public Iterable<Course> list(Pageable pageable) {
-
         return repository.findAll(pageable);
     }
 }

@@ -23,7 +23,5 @@ public class CourseController {
     @GetMapping(produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
     public ResponseEntity<Iterable<Course>> list(Pageable pageable) {
         return new ResponseEntity<>(service.list(pageable), HttpStatus.OK);
-
-
     }
 }
