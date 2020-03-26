@@ -22,7 +22,7 @@ public class Course implements AbstractEntity {
 
     @NotNull(message = "Campo título é obrigatório")
     @Column(nullable = true)
-    private String titulo;
+    private String title;
 
     @Override
     public Long getId() {
