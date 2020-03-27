@@ -1,13 +1,16 @@
 spring:
   application:
     name: registry
-  server:
-    port: 8081
+
+server:
+  port: 8081
 
 eureka:
   client:
-    register-with-eureka: false
-    fetch-regstry: false
+    registerWithEureka: false
+    fetchRegistry: false
     service-url:
-      defaultZone: hhtp://localhost:${server.port}/eureka/
+      defaultZone: http://localhost:${server.port}/eureka/
 
+jpa:
+  database-platform: org.hibernate.dialect.MySQL5Dialect

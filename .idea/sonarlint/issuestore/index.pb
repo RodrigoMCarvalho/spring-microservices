@@ -17,3 +17,13 @@ Hcourse/src/main/java/com/academy/course/controller/CourseController.java,2\f\2
 course/pom.xml,f\3\f304e1be980d2d181f25492966731f93804adf3c
 n
 >course/src/main/java/com/academy/course/CourseApplication.java,d\e\de86bdc72ebb5b93a5e5058618e9f3d6776148e1
+q
+Agateway/src/main/java/com/academy/gateway/GatewayApplication.java,c\9\c94aac3a8c57106d81689dbbefe14ffe041c7dff
+v
+Fgateway/src/test/java/com/academy/gateway/GatewayApplicationTests.java,1\0\10cb9d14c43872a924dd14bcba0d5f88e058d2b0
+?
+gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
+A
+discovery/pom.xml,a\c\ac3e1555725512e9cd39c39120cd768bda4aa7b4
+w
+Gdiscovery/src/main/java/com/academy/discovery/DiscoveryApplication.java,a\9\a9d3608188f3ab1f8887c682583af5049849017f
