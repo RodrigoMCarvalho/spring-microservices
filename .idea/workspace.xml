@@ -3,29 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d4c951b7-290d-4c94-8ed2-cc01c4eeddbc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f13dbfe0343f26241c636cbb08a1b16b458efc4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f13dbfe0343f26241c636cbb08a1b16b458efc4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d3608188f3ab1f8887c682583af5049849017f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d3608188f3ab1f8887c682583af5049849017f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/META-INF/core.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/AbstractEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/AbstractEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/Course$CourseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/Course$CourseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/academy/core/model/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/com/academy/core/repository/CourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/academy/core/repository/CourseRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/course/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/src/main/java/com/academy/discovery/DiscoveryApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery/src/test/java/com/academy/discovery/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,23 +55,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\discovery\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.academy.course" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\course\src\main\java\com\academy\course" />
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\core\src\main\java\com\academy\core\model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.academy.core.repository" />
       <recent name="com.academy.core.model" />
       <recent name="com.academy.course.repository" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\discovery\src\main\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\course\src\main\java\com\academy\course" />
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\core\src\main\java\com\academy\core\model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,16 +165,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/course/src/main/java/com/academy/course/controller/CourseController.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

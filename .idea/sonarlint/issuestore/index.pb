@@ -27,3 +27,5 @@ A
 discovery/pom.xml,a\c\ac3e1555725512e9cd39c39120cd768bda4aa7b4
 w
 Gdiscovery/src/main/java/com/academy/discovery/DiscoveryApplication.java,a\9\a9d3608188f3ab1f8887c682583af5049849017f
+9
+	http.rest,a\c\ac8a1d3d9f644de56110c23184df960d4eb7bf60

@@ -1,4 +1,5 @@
 
-¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü›ºÆýÿÿÿÿ8±Ú‹é‘.
-Ÿsquid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø‰ºš8±Ú‹é‘.
-squid:UselessImportCheck"ORemove this unused import 'org.springframework.context.annotation.Conditional'.(Óç»®úÿÿÿÿ8±Ú‹é‘.
+–squid:UselessImportCheck"fRemove this unused import 'org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean'.(Ü¥›åûÿÿÿÿ8’Êîò‘.
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8’Êîò‘.
+ssquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8’Êîò‘.
+squid:UselessImportCheck"ORemove this unused import 'org.springframework.context.annotation.Conditional'.(Óç»®úÿÿÿÿ8’Êîò‘.
