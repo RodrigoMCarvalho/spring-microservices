@@ -1,5 +1,5 @@
 
-–squid:UselessImportCheck"fRemove this unused import 'org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean'.(Ü¥›åûÿÿÿÿ8’Êîò‘.
 `squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8’Êîò‘.
-ssquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8’Êîò‘.
 squid:UselessImportCheck"ORemove this unused import 'org.springframework.context.annotation.Conditional'.(Óç»®úÿÿÿÿ8’Êîò‘.
+–squid:UselessImportCheck"fRemove this unused import 'org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean'.(Ü¥›åûÿÿÿÿ8’Êîò‘.
+ssquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8’Êîò‘.

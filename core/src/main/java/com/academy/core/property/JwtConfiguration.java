@@ -27,6 +27,10 @@ public class JwtConfiguration {
         return loginUrl;
     }
 
+    public int getExpiration() {
+        return expiration;
+    }
+
     @Getter
     @Setter
     public static class Header {

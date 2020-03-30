@@ -18,14 +18,11 @@ import static org.springframework.security.config.http.SessionCreationPolicy.STA
 @EnableWebSecurity
 public class SecurityCredentialsConfig extends WebSecurityConfigurerAdapter {
 
+    @Autowired
     private UserDetailsService userDetailsService;
 
+    @Autowired
     private JwtConfiguration jwtConfiguration;
-
-    public SecurityCredentialsConfig(UserDetailsService userDetailsService, JwtConfiguration jwtConfiguration) {
-        this.userDetailsService = userDetailsService;
-        this.jwtConfiguration = jwtConfiguration;
-    }
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
