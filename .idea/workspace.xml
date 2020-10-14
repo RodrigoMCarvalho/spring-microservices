@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4c951b7-290d-4c94-8ed2-cc01c4eeddbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d3608188f3ab1f8887c682583af5049849017f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d3608188f3ab1f8887c682583af5049849017f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth/src/main/java/com/academy/auth/secuty/config/SecurityCredentialsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/auth/src/main/java/com/academy/auth/secuty/config/SecurityCredentialsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth/src/main/java/com/academy/auth/secuty/filter/JwtUsernameAndPasswordAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/auth/src/main/java/com/academy/auth/secuty/filter/JwtUsernameAndPasswordAuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/academy/core/model/ApplicationUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/academy/core/model/ApplicationUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/academy/core/property/JwtConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/academy/core/property/JwtConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/academy/course/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/java/com/academy/course/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery/src/main/java/com/academy/discovery/DiscoveryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery/src/main/java/com/academy/discovery/DiscoveryApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,20 +56,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\discovery\src\main\java" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.academy.course" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\course\src\main\java\com\academy\course" />
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\core\src\main\java\com\academy\core\model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.academy.core.repository" />
       <recent name="com.academy.core.model" />
       <recent name="com.academy.course.repository" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\course\src\main\java\com\academy\course" />
-      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\core\src\main\java\com\academy\core\model" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri_000\eclipse-workspace\course\Spring-Microservices\discovery\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiscoveryApplication">
+  <component name="RunManager" selected="Application.CourseApplication">
     <configuration name="CourseApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -136,8 +133,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiscoveryApplication" />
         <item itemvalue="Application.GatewayApplication" />
+        <item itemvalue="Application.DiscoveryApplication" />
       </list>
     </recent_temporary>
   </component>

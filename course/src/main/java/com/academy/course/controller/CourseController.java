@@ -17,8 +17,12 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class CourseController {
 
-    @Autowired
     private CourseService service;
+
+    @Autowired
+    public CourseController(CourseService service) {
+        this.service = service;
+    }
 
     @GetMapping(produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
     public ResponseEntity<Iterable<Course>> list(Pageable pageable) {

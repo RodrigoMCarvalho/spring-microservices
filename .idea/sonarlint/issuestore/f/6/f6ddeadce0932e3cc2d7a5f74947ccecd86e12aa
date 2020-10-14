@@ -1,0 +1,6 @@
+
+hsquid:UnusedPrivateMethodE"7Remove this unused private "createJWTClaimsSet" method.(ÎÆıÓÿÿÿÿÿ8ï©£È’.
+fsquid:S1854A"CRemove this useless assignment to local variable "applicationUser".(¿ªÕ¦üÿÿÿÿ8 ä‚È’.
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿„¦Ç’.
+Wsquid:S1481A"4Remove this unused "applicationUser" local variable.(¿ªÕ¦üÿÿÿÿ8ıÄƒÈ’.
+`squid:UnusedPrivateMethod@"4Remove this unused private "createSignedJWT" method.(Ü¥é8ïşüÇ’.
